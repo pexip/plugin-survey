@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "survey-plugin-1.0",
+      "srcURL": "plugins/survey/survey.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}
